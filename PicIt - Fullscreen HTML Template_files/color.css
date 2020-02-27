@@ -1,0 +1,30 @@
+/*=============================================
+			Theme Color
+=============================================*/
+.tg-testimonials .tg-sectiontitle h2,
+.tg-testimonialcontent h3,
+.tg-bottom h4,
+.tg-responsivecontent h2
+
+
+
+{color: #3346d1;}
+/*=============================================
+			Theme Background Color
+=============================================*/
+.tg-btn:hover,
+.tg-btn.tg-active,
+.tg-btnregular
+{background: #505050;}
+
+.tg-themefeature {background: #f7f7f7;}
+
+.tg-btn.tg-active {
+    background: #505050;
+}
+/*=============================================
+			Theme Border Color
+=============================================*/
+.tg-btnregular
+
+{border-color: #004281;}
